@@ -1,15 +1,16 @@
 
 <h1 align="center">
-    Hi , I'm Lucía Luzán (aka @luluzan) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Hi , I'm Lucía Luzán (aka @luluzan)
+       <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzM2NDkyMjI0ZmQ0M2UxNTczZTBmOTFlOGY3MzM4NjBjNWZhM2ZkYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/qlOso7alCUTiAX7aG5/giphy.gif" width="50">
 </h1>
-
+<br>
 <p align="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Omnes&pause=1000&color=A12B95&background=B9EFFFA7&center=true&width=435&lines=Welcome+to+my+README++%3A);Bienvenid%40s+a+mi+README++++++%5E_%5E" alt="Typing SVG" /></a>
 </p>
 
 ## <img alt="hi-hellokitty" src= "https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="50"> About me
 
-<img width="25%" align="right" alt="HackerCat" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
+<img width="20%" align="right" alt="HackerCat" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
 - :woman_technologist: I’m currently in my last year of my engineering degree in digital interaction and multimedia techniques
 - :woman_student: Learning everything about Frontend and Backend technologies in Bootcamp Fullstack at FactoríaF5
@@ -17,7 +18,7 @@
 - :brain: Always `learning new things` for feeding my mind
 - 💬 Ask me about anything: Here.
 - 📫 How to reach me: Catch and follow me from the above links :point_down:, in addition to follow me here.
-- :unicorn: Fun fact: I love Traveling(🌍), Videogames(📷), Codeing(💻) and Cooking (:woman_cook:).
+- :unicorn: Fun fact: I love Traveling(🌍), Videogames(:joystick:), Codeing(💻) and Cooking (:woman_cook:).
  <img width="25%" align="center" alt="sleepPcSleep" src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" />
  
 
