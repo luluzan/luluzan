@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <h1 align="center">
     Hi , I'm Lucía Luzán (aka @luluzan) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -9,14 +7,17 @@
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Omnes&pause=1000&color=A12B95&background=B9EFFFA7&center=true&width=435&lines=Welcome+to+my+README++%3A);Bienvenid%40s+a+mi+README++++++%5E_%5E" alt="Typing SVG" /></a>
 </p>
 
-## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> About me
+## <img alt="hi-hellokitty" src= "https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="50"> About me
 
 <img width="25%" align="right" alt="HackerCat" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
-- 👨‍💻 I’m currently in my last year of my engineering degree in digital interaction and multimedia techniques
+- :woman_technologist: I’m currently in my last year of my engineering degree in digital interaction and multimedia techniques
 - :woman_student: Learning everything about Frontend and Backend technologies in Bootcamp Fullstack at FactoríaF5
 - :computer: Future Goals: Learn more technologies - Never stop creating new ideas.
 - :brain: Always `learning new things` for feeding my mind
+- 💬 Ask me about anything: Here.
+- 📫 How to reach me: Catch and follow me from the above links :point_down:, in addition to follow me here.
+- :unicorn: Fun fact: I love Traveling(🌍), Videogames(📷), Codeing(💻) and Cooking (:woman_cook:).
  <img width="25%" align="center" alt="sleepPcSleep" src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" />
  
 
@@ -78,43 +79,8 @@
 
 ## 📊 Github Stats
 
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
 
-  <br/>
-
-  <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="elegarmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elegarmi&show_icons=true&count_private=true&theme=chalk" height="192px"/></a>
-  </p>
-  <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elegarmi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chalk" alt="elegarmi" height="192px"/></p>
-  </p>
-</details>
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
   
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/elegarmi"><img alt="elegarmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elegarmi&custom_title=elegarmi's%20Contribution%20Graph&theme=react-dark" /></a>
-  </p>
-</details>
-
-<details>
-  <summary>:trophy: Git profile Trophies</summary>
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=elegarmi&layout=compact&theme=chalk" alt="elegarmi profile trophies" />
-    </a>
-  </p>
-
-</details>
-
-
 -----
 ### Readme credits: 
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
