@@ -1,52 +1,36 @@
 ### Hi there 👋
 
 
-**luluzan/luluzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 <h1 align="center">
     Hi , I'm Lucía Luzán (aka @luluzan) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+graphic+design+technician;Fullstack+developer;Factoría+F5+Hackathon+Finalist;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=50&height=50">
-  </a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Omnes&pause=1000&color=A12B95&background=B9EFFFA7&center=true&width=435&lines=Welcome+to+my+README++%3A);Bienvenid%40s+a+mi+README++++++%5E_%5E" alt="Typing SVG" /></a>
 </p>
 
 ## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> About me
 
-<img width="25%" align="right" alt="HackerCat" src="https://giphy.com/gifs/cat-q6RoNkLlFNjaw" />
+<img width="25%" align="right" alt="HackerCat" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
-- :school: In my last year of my engineering degree in digital interaction and multimedia techniques at the Open University of Catalonia.
-- :woman_student: `Junior fullstack developer` trained by Factoría F5 Bootcamp
-- :computer: I like to explore new technologies and develop software solutions
+- 👨‍💻 I’m currently in my last year of my engineering degree in digital interaction and multimedia techniques
+- :woman_student: Learning everything about Frontend and Backend technologies 😅
+- :computer: Future Goals: Learn more technologies - Never stop creating new ideas.
 - :brain: Always `learning new things` for feeding my mind
 
 <br>
 
 ## :mailbox: Connect with me
 <p align="center">
-    <a href="https://www.linkedin.com/in/elegarmi/">
+    <a href="https://es.linkedin.com/">
       <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
     </a>
     &emsp; 
-    <a href="https://www.detallinos.com/">
-      <img width="40px" src="https://icon-library.com/images/www-icon-png/www-icon-png-5.jpg" alt="Peronal project"/>
-    </a>
-    &emsp; 
-    <a href="https://www.instagram.com/detallinos/">
+       &emsp; 
+    <a href="https://www.instagram.com/luluzan/">
       <img width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"/>
     </a>
     &emsp; 
-    <a href="https://www.tiktok.com/@detallinos" alt="Tiktok">
-      <img width="40px" src="https://raw.githubusercontent.com/github/explore/14a518abd710177a13d8c22077cfcd98506dd756/topics/tiktok/tiktok.png" alt="TikTok"/>
-    </a>
-    &emsp; 
-    <a href="https://www.snapchat.com/add/detallinos?share_id=bR6RrQwlGUl">
-      <img width="40px" src="https://avatars.githubusercontent.com/u/40505220?s=280&v=4" alt="Snapchat"/>
-    </a>
 </p>
 
 <br>
@@ -71,30 +55,18 @@
   <img alt="PHP" width="60px" src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667">
   </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  </a>
-  &emsp;
-  <a href="https://sass-lang.com/" target="_blank"> 
-    <img alt="Sass" width="60px" src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
-  </a>
-  &emsp;
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img alt="Bootstrap" width="60px" src="https://camo.githubusercontent.com/33377b0d016b02736d9ef409e74be77bce2e6ed2397bf0e505c0792e49f3c6b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2d776f72646d61726b2e737667">
   </a>
   &emsp;
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img alt="Vue.js" width="60px" src="https://camo.githubusercontent.com/bd55955f84d6ea390afc5ea84aadbbe6b643ef698bdbb2593bc0fb2246395ae3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2d776f72646d61726b2e737667">
+ <a href="https://processing.org/" target="_blank"> 
+    <img alt="Processing" width="60px" src="https://camo.githubusercontent.com/33377b0d016b02736d9ef409e74be77bce2e6ed2397bf0e505c0792e49f3c6b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2d776f72646d61726b2e737667">
   </a>
-  &emsp;
-  <a href="https://vuetifyjs.com/en/" target="_blank"> 
-    <img alt="Vuetify" width="60px" src="https://avatars.githubusercontent.com/u/22138497?s=200&v=4">
+   &emsp;
+<a href="https://processing.org/" target="_blank"> 
+    <img alt="Arduino" width="60px" src="https://logodownload.org/arduino-logo/arduino-logo/">
   </a>
-  &emsp;
-  <a href="https://laravel.com/" target="_blank"> 
-    <img alt="Laravel" width="60px" src="https://camo.githubusercontent.com/9d0bc75ece06bd0c74d0e9bc3161e012c70c5aa2782f372912c87c84360ad138/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c61726176656c2f6c61726176656c2d706c61696e2d776f72646d61726b2e737667">
-  </a>
-  &emsp;
+   &emsp;
   <a href="#">
     <img alt="Visual Studio Code" width="60px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
   </a>
@@ -140,11 +112,6 @@
 
 </details>
 
------
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=elegarmi" alt="elegarmi" /> 
-</p>
 
 -----
 ### Readme credits: 
