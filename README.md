@@ -14,9 +14,11 @@
 <img width="25%" align="right" alt="HackerCat" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
 - 👨‍💻 I’m currently in my last year of my engineering degree in digital interaction and multimedia techniques
-- :woman_student: Learning everything about Frontend and Backend technologies 😅
+- :woman_student: Learning everything about Frontend and Backend technologies in Bootcamp Fullstack at FactoríaF5
 - :computer: Future Goals: Learn more technologies - Never stop creating new ideas.
 - :brain: Always `learning new things` for feeding my mind
+ <img width="25%" align="center" alt="sleepPcSleep" src="https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" />
+ 
 
 <br>
 
