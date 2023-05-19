@@ -55,30 +55,21 @@
   </a>
   &emsp;
     <a href="https://processing.org/" target="_blank"> 
-    <img alt="Processing" width="60px" src="PREOCESSING.IMG">
+    <img alt="Processing" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/900px-Processing_2021_logo.svg.png">
   </a>
    &emsp;
-<a href="https://processing.org/" target="_blank"> 
-    <img alt="Arduino" width="60px" src="https://logodownload.org/arduino-logo/arduino-logo/">
+<a href= "https://www.arduino.cc/" target="_blank"> 
+    <img alt="Arduino" width="60px" src= "https://camo.githubusercontent.com/a9e049ade1147226016feb1ab0024b7e09cf5e6ce7921aa9e7326942f98c71dd/687474703a2f2f636f6e74656e742e61726475696e6f2e63632f6272616e642f61726475696e6f2d636f6c6f722e737667">
   </a>
        &emsp;
-    <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank"> 
-  <img alt="PHP" width="60px" src="https://camo.githubusercontent.com/9e581761c42b9210538e4727e082b7e1db70a621da3481eb6a348bdb5257af70/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7068702f7068702d6f726967696e616c2e737667">
-  </a>
-  &emsp;
+
   <a href="#">
     <img alt="Visual Studio Code" width="60px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
   </a>
-     <a href="https://getbootstrap.com/" target="_blank"> 
-    <img alt="Bootstrap" width="60px" src="https://camo.githubusercontent.com/33377b0d016b02736d9ef409e74be77bce2e6ed2397bf0e505c0792e49f3c6b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2d776f72646d61726b2e737667">
-  </a>
-  &emsp;
+
 </p>
 
 <br/>
-
-## 📊 Github Stats
-
 
   
 -----
