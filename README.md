@@ -17,7 +17,7 @@
 
 ## <img alt="hi-star" src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20"> About me
 
-<img width="25%" align="right" alt="HackerCat" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img width="25%" align="right" alt="HackerCat" src="https://giphy.com/gifs/cat-q6RoNkLlFNjaw" />
 
 - :school: In my last year of my engineering degree in digital interaction and multimedia techniques at the Open University of Catalonia.
 - :woman_student: `Junior fullstack developer` trained by Factoría F5 Bootcamp
